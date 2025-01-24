@@ -1,4 +1,4 @@
-# Guia de Inglês
+# 📝 Guia de Inglês
 
 Este repositório contém materiais e orientações para o aprendizado da língua inglesa, abordando gramática, vocabulário e outras ferramentas úteis para estudantes.
 
@@ -12,7 +12,7 @@ Atualmente em desenvolvimento 🟡. Mais recursos serão adicionados em breve!
 - **Vocabulário**: Palavras e expressões para expandir seu conhecimento.
 - **Dicas**: Estratégias e recursos para melhorar suas habilidades no idioma.
 
-## Como Contribuir
+## 🤝 Como Contribuir
 
 1. Faça um fork do repositório.
 2. Crie uma nova branch para suas alterações.
